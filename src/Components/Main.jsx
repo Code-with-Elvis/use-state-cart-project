@@ -2,7 +2,7 @@ import { BsCart2 } from 'react-icons/bs'
 import { MdOutlineAdd } from 'react-icons/md'
 import { FiMinus } from 'react-icons/fi'
 import data from '../data'
-import { useContext, useEffect } from 'react'
+import { useContext } from 'react'
 import { UserCart } from '../App'
 
 const Main = () => {
